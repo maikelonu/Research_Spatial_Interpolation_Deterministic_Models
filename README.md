@@ -2,13 +2,18 @@
 # Spatial_Interpolation_MECA
 Deterministic (Mechanical) Interpolation Methods
 
-Precipitation Interpolation Methods
 Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
+
 Maikel Mendez-M (mamendez@itcr.ac.cr);(maikel.mendez@gmail.com)
+
 Luis Alexander Calvo-V (lcalvo@itcr.ac.cr);(lualcava.sa@gmail.com)
+
 This script is structured in R (www.r-project.org)
+
 General purpose: Generate temporal series of average precipitation for a waterbasin using deterministic interpolation methods.
+
 Input files: "interpolation.dat","calibration.dat", "validation.dat",  "blank.asc"
+
 Output files: "log.txt", "output_interpolation.csv","output_calibration.csv" and  "output_mae.csv", "output_rmse.csv"
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
