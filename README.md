@@ -1,5 +1,8 @@
 ![alt test](/sshot-1.png)
 # Spatial_Interpolation_Deterministic
+
+# https://doi.org/10.1016/j.proeng.2016.07.595
+
 Deterministic (Mechanical) Interpolation Methods
 
 Instituto Tecnologico de Costa Rica (www.tec.ac.cr)
